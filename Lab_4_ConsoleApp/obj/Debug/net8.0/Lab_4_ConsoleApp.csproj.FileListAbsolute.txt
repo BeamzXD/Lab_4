@@ -1,0 +1,14 @@
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/bin/Debug/net8.0/Lab_4_ConsoleApp
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/bin/Debug/net8.0/Lab_4_ConsoleApp.deps.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/bin/Debug/net8.0/Lab_4_ConsoleApp.runtimeconfig.json
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/bin/Debug/net8.0/Lab_4_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/bin/Debug/net8.0/Lab_4_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/Lab_4_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/Lab_4_ConsoleApp.AssemblyInfoInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/Lab_4_ConsoleApp.AssemblyInfo.cs
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/Lab_4_ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/Lab_4_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/refint/Lab_4_ConsoleApp.dll
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/Lab_4_ConsoleApp.pdb
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/Lab_4_ConsoleApp.genruntimeconfig.cache
+/Users/beamz/Documents/Институт/3 семестр/Алгоритмические языки/Лабы/Lab_4/Lab_4_ConsoleApp/obj/Debug/net8.0/ref/Lab_4_ConsoleApp.dll
